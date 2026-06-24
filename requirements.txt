@@ -1,0 +1,8 @@
+chromadb
+litellm
+gradio
+python-dotenv
+pydantic
+tenacity
+requests
+tqdm
